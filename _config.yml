@@ -1,0 +1,14 @@
+theme: minima
+
+title: "OwuenYagual's personal blog"
+description: "This is where I share cool stuff about my life"
+url: "https://owuenyagual.github.io/skills-github-pages"
+baseurl: ""
+lang: "es"
+timezone: "America/Guayaquil"
+
+author:
+  name: "Owuen Yagual"
+  email: "oayagual@espol.edu.ec"
+  bio: "Desarrollador de software y entusiasta del código abierto."
+  github: "OwuenYagual"
